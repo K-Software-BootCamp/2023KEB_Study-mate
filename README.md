@@ -24,6 +24,7 @@
 - 연결된 사용자와 채팅 가능
 
 회원가입창
+
 ![3](https://github.com/K-Software-BootCamp/2023KEB_Study-mate/assets/140567953/fa5f80df-6340-4a8b-bfec-282c7006f55b)
 
 메인 화면
