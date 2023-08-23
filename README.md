@@ -15,14 +15,6 @@
 - 얼굴 인식이 안 될 때 측정 정지
 - 메세지 기능 포함
   
-
-### StudyManager
-여러 StudyMate 사용자 관리 프로그램, StudyMate로부터 화면을 전송받아 관리감독
-- 접속한 사용자 수에 따라 화면 분할 가능
-- StudyMate 사용자 프로필 수정 가능
-- 공부 시간은 StudyMate와 별도로 저장
-- 연결된 사용자와 채팅 가능
-
 회원가입창
 
 ![3](https://github.com/K-Software-BootCamp/2023KEB_Study-mate/assets/140567953/fa5f80df-6340-4a8b-bfec-282c7006f55b)
@@ -32,6 +24,20 @@
 ![1](https://github.com/K-Software-BootCamp/2023KEB_Study-mate/assets/140567953/a87a6ba1-7ffa-4a5c-b833-9b18c24bed08)
 
 공부 기록
+
+![2](https://github.com/K-Software-BootCamp/2023KEB_Study-mate/assets/140567953/4d32602e-17c4-4836-8a04-02e571a67391)
+
+### StudyManager
+여러 StudyMate 사용자 관리 프로그램, StudyMate로부터 화면을 전송받아 관리감독
+- 접속한 사용자 수에 따라 화면 분할 가능
+- StudyMate 사용자 프로필 수정 가능
+- 공부 시간은 StudyMate와 별도로 저장
+- 연결된 사용자와 채팅 가능
+
+메인 화면
+
+
+회원 관리
 
 ## 사용한 기술
 - DirectX9
