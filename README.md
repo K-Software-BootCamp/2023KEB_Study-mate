@@ -36,8 +36,12 @@
 
 메인 화면
 
+![4](https://github.com/K-Software-BootCamp/2023KEB_Study-mate/assets/140567953/059fa346-dee7-40b2-8243-5e5bda031029)
 
 회원 관리
+
+![5](https://github.com/K-Software-BootCamp/2023KEB_Study-mate/assets/140567953/eccb4844-954c-4c93-9c15-d3c4b9fd9f34)
+
 
 ## 사용한 기술
 - DirectX9
