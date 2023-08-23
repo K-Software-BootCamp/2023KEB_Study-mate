@@ -24,6 +24,11 @@
 - 연결된 사용자와 채팅 가능
 
 ## 사용한 기술
+- DirectX9
+- I420 Image Format
+- H.264 Encoding & Decoding
+- FFgmpeg Library
+- Deep Learning Face Recognition: MTCNN
 
 ## 
 
