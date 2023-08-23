@@ -29,6 +29,7 @@
 
 메인 화면
 
+![1](https://github.com/K-Software-BootCamp/2023KEB_Study-mate/assets/140567953/a87a6ba1-7ffa-4a5c-b833-9b18c24bed08)
 
 공부 기록
 
